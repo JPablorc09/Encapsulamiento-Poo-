@@ -1,0 +1,7 @@
+T:\lenguajeC#\Encapsulamiento\Encapsulamiento\bin\Debug\Encapsulamiento.exe.config
+T:\lenguajeC#\Encapsulamiento\Encapsulamiento\bin\Debug\Encapsulamiento.exe
+T:\lenguajeC#\Encapsulamiento\Encapsulamiento\bin\Debug\Encapsulamiento.pdb
+T:\lenguajeC#\Encapsulamiento\Encapsulamiento\obj\Debug\Encapsulamiento.csproj.AssemblyReference.cache
+T:\lenguajeC#\Encapsulamiento\Encapsulamiento\obj\Debug\Encapsulamiento.csproj.CoreCompileInputs.cache
+T:\lenguajeC#\Encapsulamiento\Encapsulamiento\obj\Debug\Encapsulamiento.exe
+T:\lenguajeC#\Encapsulamiento\Encapsulamiento\obj\Debug\Encapsulamiento.pdb
